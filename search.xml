@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>机电系</title>
-      <link href="/blog/%E6%9C%BA%E7%94%B5%E7%B3%BB/"/>
-      <url>/blog/%E6%9C%BA%E7%94%B5%E7%B3%BB/</url>
+      <title>加油站</title>
+      <link href="/blog/%E5%8A%A0%E6%B2%B9%E7%AB%99/"/>
+      <url>/blog/%E5%8A%A0%E6%B2%B9%E7%AB%99/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>加油！我是最棒的！<br>   李勋荣<br>   玩进华<br>   杨  超</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你先说什么，就说点什么呗</p>]]></content>
       
       
       
@@ -17,11 +17,24 @@
     
     
     <entry>
-      <title>测试页面</title>
+      <title>机电系401</title>
+      <link href="/blog/%E6%9C%BA%E7%94%B5%E7%B3%BB/"/>
+      <url>/blog/%E6%9C%BA%E7%94%B5%E7%B3%BB/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>加油！我是最棒的！<br>李勋荣 万进华 杨  超<br><img src="A.jpg" alt=""></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>一栋的神</title>
       <link href="/blog/done/"/>
       <url>/blog/done/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>你之所以活得累，在于你，只有心理上的不断自责，没有行动上的立即改变。<br><img src="S.jpg" alt=""></p><blockquote><p>网站修改配置文档：<br><a class="btn-beautify button--animated " href="https://user.qzone.qq.com/1379931668?ADUIN=1379931668&ADSESSION=1650108885&ADTAG=CLIENT.QQ.5887_MyInfo_PersonalInfo.0&ADPUBNO=27211&source=namecardstar"   title="点这里有惊喜"><i class="fas fa-download"></i><span>点这里有惊喜</span></a><br><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a></p></blockquote><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
       
       
       
